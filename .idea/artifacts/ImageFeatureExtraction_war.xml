@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ImageFeatureExtraction:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ImageFeatureExtraction.war">
+      <element id="artifact" artifact-name="ImageFeatureExtraction:war exploded" />
+    </root>
+  </artifact>
+</component>
